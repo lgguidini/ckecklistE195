@@ -8,4 +8,4 @@
 
 * C208
 
-* Phenom 1--
+* Phenom 100
