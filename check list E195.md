@@ -59,7 +59,7 @@
 11 cintos off
 11 ocupado off
 
-TOD FL290 UZ35 15NM REINA STAR GILNI 1A EXP ILS K RWY 16 SBCF
+##### TOD FL290 UZ35 15NM REINA STAR GILNI 1A EXP ILS K RWY 16 SBCF
 
 18- ideal descida
 19 setar altitude
